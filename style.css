@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+}
+.no_decoration{
+    text-decoration: none;
+}
+.back_orange:hover{
+    background-color: #ff5c00;
+}
+.hover_white:hover{
+    color: white;
+}
+.no_margin{
+    margin: 0;
+}
+.height_100{
+    height: 100%;
+}
+.flex{
+    display: flex;
+}
+.propre{
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    justify-content: center;
+}
+.items{
+    align-items: center;
+}
+.propre_arou{
+    justify-content: space-around;
+    align-items: center;
+}
+.direction_row{
+    flex-direction: row;
+}
+.direction_column{
+    flex-direction: column;
+}
+.no_style{
+    list-style: none;
+}
+.write_white{
+    color:white;
+}
+.write_grey{
+    color: gray;
+}
+.img_width{
+    width: 180px;
+    height: auto;
+}
+.width_25{
+    width: 25%;
+}
+.write_small{
+    font-size: 12px;
+}
+.write_gras{
+    font-weight: bold;
+}
+.width_1000{
+    width: 1000px;
+}
+#un{
+    background-color: #0096B1;
+    font-size: 13px;
+}
+#un_p p{
+    padding-left: 10px;
+}
+#un_bis{
+    height: 45px;
+}
+#deux{
+    height: 121px;
+}
+#deux li{
+    padding-right: 8px;
+    font-size: 12px;
+}
+#input_text{
+    width: 400px;
+}
+#trois{
+    height: 60px;
+    border-top: 1px solid #E6E6E6;
+    border-bottom: 1px solid #E6E6E6;
+    margin-bottom: 15px;
+}
+#trois li{
+    padding-right: 10px;
+    padding-left: 10px;
+    border-right: 1px solid #E6E6E6;
+}
+#last_li{
+    background-color: #514367;
+}
+#quatre h4{
+    font-size: 15px;
+}
+#panier h3{
+    padding-left: 5px;
+}
+#panier input{
+    height: 24px;
+    font-size: 10px;
+}
+#bandeau{
+    padding-top: 15px;
+    padding-bottom: 32px;
+}
+#cinq{
+    height: 170px;
+    background-image: url('img/place.png');
+}
+#title_band{
+    margin-bottom: 0;
+    font-size: 20px;
+}
+#com_band{
+    margin-top: 0;
+}
+#div_form{
+    height: 38px;
+    padding-bottom: 25px;
+}
+#input_band{
+    width: 517px;
+    height: 100%;
+}
+#submit_band{
+    width: 77px;
+    height: 100%;
+    background-color: #ff5c00;
+    color: white;
+}
+#six p{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+#six img{
+    padding-bottom: 30px;
+}
+#footer_un{
+    background-color: #0096b1;
+}
+#footer_deux{
+    background-color: #cfcfcf;
+}
+#footer_trois{
+    background-color: grey;
+}
+#footer_quatre{
+    background-color: lightgray;
+}
